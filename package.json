@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "openai": "^3.1.0"
+  },
+  "name": "open-ai-gpt-3",
+  "description": "项目目前提供基础版 GPT-3 模型实现，暂不支持连续对话。",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Liang",
+  "license": "ISC"
+}
